@@ -1,0 +1,37 @@
+{
+  "id": "pf2e-community-monster-core-token-pack-mapping",
+  "title": "PF2e Community Monster Core Token Pack Mapping",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11.315",
+    "verified": "11.315"
+  },
+  "authors": [
+    {
+      "name": "Emmanuel Wineberg",
+      "discord": "esheyw",
+      "email": "esheyw@gmail.com",
+      "url": "https://github.com/esheyw"
+    },
+    {
+      "name": "Symon S.",
+      "discord": "symons."
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.15"
+        }
+      }
+    ]
+  },
+  "flags": {
+    "pf2e-community-monster-core-token-pack-mapping": {
+      "pf2e-art": "mapping.json"
+    }
+  }
+}
