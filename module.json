@@ -27,11 +27,30 @@
           "minimum": "5.15"
         }
       }
+    ],
+    "requires": [
+      {
+        "id": "pf2e-tokens-bestiaries",
+        "type": "module",
+        "compatibility": {}
+      }
     ]
   },
+  "media": [
+    {
+      "type": "setup",
+      "caption": "Token Pack Mapping"
+    }
+  ],
   "flags": {
     "pf2e-community-monster-core-token-pack-mapping": {
       "pf2e-art": "mapping.json"
     }
-  }
+  },
+  "manifest": "updatedByRelease",
+  "download": "updatedByRelease",
+  "readme": "https://github.com/esheyw/pf2e-community-monster-core-token-pack-mapping/blob/main/README.md",
+  "url": "https://github.com/esheyw/pf2e-community-monster-core-token-pack-mapping/",
+  "bugs": "https://github.com/esheyw/pf2e-community-monster-core-token-pack-mapping/issues",
+  "changelog": "https://github.com/esheyw/pf2e-community-monster-core-token-pack-mapping/blob/main/CHANGELOG.md"
 }
