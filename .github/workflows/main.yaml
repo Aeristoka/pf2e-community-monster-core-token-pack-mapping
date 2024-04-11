@@ -11,11 +11,11 @@ jobs:
       # Checkout
       - uses: actions/checkout@v2
       # install deps
-      - run: npm ci
+      # - run: npm ci
       # build sass
-      - run: npm run sass
+      # - run: npm run sass
       # pack packs
-      - run: npm run pack
+      # - run: npm run pack
 
       # Substitute the Manifest and Download URLs in the module.json
       - name: Substitute Manifest and Download Links For Versioned Ones
