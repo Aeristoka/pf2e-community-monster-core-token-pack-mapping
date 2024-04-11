@@ -44,7 +44,7 @@
   ],
   "flags": {
     "pf2e-community-monster-core-token-pack-mapping": {
-      "pf2e-art": "mapping.json"
+      "pf2e-art": "modules/pf2e-community-monster-core-token-pack-mapping/mapping.json"
     }
   },
   "manifest": "updatedByRelease",
