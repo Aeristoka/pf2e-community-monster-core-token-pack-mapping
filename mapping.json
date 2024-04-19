@@ -1802,7 +1802,7 @@
     "QJgC1lWvwekWJjkD" : {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/archon/horned-archon.webp",
       "token": {
-        "img": "modules/pf2e-tokens-bestiaries/tokens/elemental/earth/kapoacinth.webp",
+        "img": "modules/pf2e-tokens-bestiaries/tokens/divine/archon/horned-archon.web",
         "scale": 1.5
       }
     },
