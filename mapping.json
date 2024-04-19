@@ -1795,6 +1795,14 @@
     "XKOQ3ll9TGNso0uB": {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/banshee.webp",
       "token": "modules/pf2e-tokens-bestiaries/tokens/undead/ghostly/banshee.webp"
+    },
+    "QJgC1lWvwekWJjkD" : {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/archon/horned-archon.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/divine/archon/horned-archon.webp"
+    },
+    "15TyWlbDQWNjMKeL": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/nessian-warhound.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/beast/nessian-warhound.webp"
     }
   }
 }
