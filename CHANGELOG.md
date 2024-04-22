@@ -15,3 +15,7 @@
 ## Version 1.0.3
 
 - Add mappings for Banshee, Qarna, and Greater Hell Hound (closes #1 and #2)
+
+## Version 1.1.0
+
+- Remove all mappings covered by the updated Token Pack
