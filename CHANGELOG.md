@@ -19,3 +19,7 @@
 ## Version 1.1.0
 
 - Remove all mappings covered by the updated Token Pack
+
+## Version 1.1.1
+
+- Clean up existing mappings, add Tomb Jelly and Horned Dragons
