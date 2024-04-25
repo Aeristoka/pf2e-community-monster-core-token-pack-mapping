@@ -27,32 +27,6 @@
         "img": "modules/pf2e-tokens-bestiaries/tokens/humanoid/kobold/kobold-mage-green.webp"
       }
     },
-    "0PNjXE892kU89LyV": {
-      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/magical/soulbound-doll-nn.webp",
-      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/magical/soulbound-doll-nn.webp"
-    },
-    "7EpLGBoddL8Vzlha": {
-      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/magical/soulbound-doll-ce.webp",
-      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/magical/soulbound-doll-ce.webp"
-    },
-    "5NnKgWCNbEzbSEN8": {
-      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/magical/soulbound-doll-cn.webp",
-      "token": {
-        "img": "modules/pf2e-tokens-bestiaries/tokens/constructed/magical/soulbound-doll-cn.webp",
-        "scale": 1.5
-      }
-    },
-    "w2jByvjeZbAclGWf": {
-      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/magical/soulbound-doll-ng.webp",
-      "token": {
-        "img": "modules/pf2e-tokens-bestiaries/tokens/constructed/magical/soulbound-doll-ng.webp",
-        "scale": 1.5
-      }
-    },
-    "v3jXIOHyQqXvImbc": {
-      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/magical/soulbound-doll-cg.webp",
-      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/magical/soulbound-doll-cg.webp"
-    },
     "Q1qjdG3i8TZuEOq6": {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/centaur.webp",
       "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/centaur.webp"
