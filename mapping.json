@@ -82,6 +82,52 @@
     "15TyWlbDQWNjMKeL": {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/nessian-warhound.webp",
       "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/beast/nessian-warhound.webp"
+    },
+    "C1MfXltrIJRnFaZg": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/ochre-jelly.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/ochre-jelly.webp"
+    },
+    "5lbXQ6MSn4AndglU": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-green-young.webp",
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-green-young.webp",
+        "scale": 2
+      }
+    },
+    "wdHIc6Tg1OBMGaK5": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-green-young.webp",
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-green-young.webp",
+        "scale": 2
+      }
+    },
+    "7jwIapHl80UbnIWr": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-green-adult.webp",
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-green-adult.webp",
+        "scale": 2
+      }
+    },
+    "ioi5L2CAM6q9aWKJ": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-green-adult.webp",
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-green-adult.webp",
+        "scale": 2
+      }
+    },
+    "6uiRT0sNk6TMQ309": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-green-ancient.webp",
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-green-ancient.webp",
+        "scale": 1.5
+      }
+    },
+    "DZoKH4IXR4zeNxoa": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-green-ancient.webp",
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-green-ancient.webp",
+        "scale": 1.5
+      }
     }
   }
 }
