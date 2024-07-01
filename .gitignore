@@ -2,4 +2,4 @@ jsconfig.json
 .vscode/
 packs/**
 node_modules
-app/**
+app
