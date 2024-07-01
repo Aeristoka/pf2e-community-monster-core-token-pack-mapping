@@ -23,3 +23,8 @@
 ## Version 1.1.1
 
 - Clean up existing mappings, add Tomb Jelly and Horned Dragons
+
+## Version 1.2.0
+
+- Remove entries made redundant by recent Token Pack updates
+- This incidentally removes the entry that was lacking a portrait entry that was causing none of the mappings to work

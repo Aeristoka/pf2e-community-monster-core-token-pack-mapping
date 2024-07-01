@@ -1,11 +1,5 @@
 {
   "pathfinder-monster-core": {
-    "iy5XBb2u4BOVxjtz": {
-      "token": {
-        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/vrolikai.webp",
-        "scale": 1.5
-      }
-    },
     "8CYHgj4SV2LvlaUs": {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/barghest.webp",
       "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/beast/barghest.webp"
@@ -13,19 +7,6 @@
     "EYiIQh526d0HLiDu": {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hag/sea-hag.webp",
       "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hag/sea-hag.webp"
-    },
-    "DBTbqI9QQRtlJwWh": {
-      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/wight.webp",
-      "token": {
-        "img": "modules/pf2e-tokens-bestiaries/tokens/undead/wight.webp",
-        "scale": 1.5
-      }
-    },
-    "JFmFuoOzCwc3hA1H": {
-      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-mage-green.webp",
-      "token": {
-        "img": "modules/pf2e-tokens-bestiaries/tokens/humanoid/kobold/kobold-mage-green.webp"
-      }
     },
     "Q1qjdG3i8TZuEOq6": {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/centaur.webp",
@@ -38,10 +19,6 @@
         "scale": 2
       }
     },
-    "bVn0EUj4xrOWjtna": {
-      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/chimera-red.webp",
-      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/chimera-red.webp"
-    },
     "vijBriZmbUJjbJNH": {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/worm-purple.webp",
       "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/worm-purple.webp"
@@ -52,10 +29,6 @@
         "img": "modules/pf2e-tokens-bestiaries/tokens/divine/archon/horned-archon.webp",
         "scale": 1.5
       }
-    },
-    "15TyWlbDQWNjMKeL": {
-      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/nessian-warhound.webp",
-      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/beast/nessian-warhound.webp"
     },
     "C1MfXltrIJRnFaZg": {
       "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/ochre-jelly.webp",
