@@ -28,3 +28,7 @@
 
 - Remove entries made redundant by recent Token Pack updates
 - This incidentally removes the entry that was lacking a portrait entry that was causing none of the mappings to work, closes #5
+
+## Version 1.2.1
+
+- Mark v12 verified
